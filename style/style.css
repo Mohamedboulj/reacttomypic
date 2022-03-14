@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items:center ; 
+    background: linear-gradient(to right, #de6262, #ffb88c);
+}
+
+#dislike-icon{
+    display:none;
+}
